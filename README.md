@@ -1,2 +1,3 @@
-# Synonym-Finder
-A browser extension to find the meaning of any word in a single click
+
+# Word Definition Finder
+Word Definition Finder is use to find any word definition.This extention can helpfull when we are unfamiliar with any word definition.
